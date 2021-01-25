@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Permission</string>
+    <string name="app_name">Permissions</string>
+    <string name="important">Important!!!</string>
+    <string name="permissions_required">Permission should be accepted to use this feature</string>
+    <string name="okay">Okay</string>
+    <string name="all_permissions">All permissions are allowed by user.</string>
 </resources>
